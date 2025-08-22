@@ -1,40 +1,42 @@
 # 🗺 Thanhloan's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data + strategy field. 
+Welcome to my data portfolio! I document projects across **data** and **strategy**—from SQL analyses to dashboards and campaign frameworks.
 
 ## 📚 Table of Contents
 - [SQL](#sql)
-- [Data visualization](#tableau)
-- [Strategy]
+- [Data Visualization](#data-visualization)
+- [Strategy](#strategy)
 
-# SQL
+---
 
-| Project Link | Area of Analysis | Project Description | 
+## SQL
+
+| Project | Area of Analysis | Project Description |
 |---|---|---|
-| [Digital Marketing Sales Analysis](https://github.com/thanhloantran005/SQL-Case-Studies/blob/main/Digital%20Marketing%20Sales%20Analysis.md) | Marketing and Sales analysis | I answer business questions related to campaign ROI and channel mix, funnel conversion & AOV, creative/hook effectiveness, geo/device segmentation, and day/date seasonality to guide budget and strategy. |  
-| [Multilingual App Mini Case Study](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | App ratings analysis | I analyzed a multilingual app dataset to quantify rating patterns by app and category, age cohorts, countries, and device types, and to identify top/bottom performers and most-helpful reviews. |  
+| [Digital Marketing Sales Analysis](https://github.com/thanhloantran005/SQL-Case-Studies/blob/main/Digital%20Marketing%20Sales%20Analysis.md) | Marketing & Sales | I answer business questions on **campaign ROI & channel mix**, **funnel conversion & AOV**, **creative/hook effectiveness**, **geo/device segmentation**, and **day/date seasonality** to guide budget and strategy. |
+| [Multilingual App Mini Case Study](https://github.com/thanhloantran005/SQL-Case-Studies/blob/main/Multilingual%20App%20Mini%20Case%20Study.md) | App Ratings | I analyzed ratings and reviews by **app/category**, **age cohort**, **country**, and **device type** to surface top/bottom performers and the most-helpful reviews. |
 
-***
+---
 
-# Data visualization
+## Data Visualization
 
-| Project | Project Description | Dashboard Link |
+| Project | Project Description | Dashboard |
 |---|---|---|
-| [Ocean Cleanup Analysis]| I analyzed 2019–2023 dive logs and debris tallies, cleaning and standardizing units into a single dataset. I built a Tableau dashboard with shop-level filters that surfaces KPIs (divers, trips/hours, area cleaned, debris mix, traps, pounds) for year-over-year reporting.| [Dashboard](https://public.tableau.com/app/profile/thanhloan.tran/viz/CourtneysDashboard2/Dashboard1) |
-| [Gifted Campaign Dashboard](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analyzed TikTok/Instagram performance for a gifting campaign and built a Looker Studio dashboard tracking views, engagements, and ER% over time. I modeled creator- and content-level cuts (top videos/creators, hook & talking style, platform mix) and added filters for niche, ethnicity, and follower range to guide creative and budget decisions. | [Dashboard](![IMG_1780](https://github.com/user-attachments/assets/57b78508-2405-4f03-9d0d-0ccb32e08716)|
+| **Clean Seas Florida Keys — Impact Dashboard** | Analyzed 2019–2023 dive logs & debris tallies; standardized units; built a Tableau dashboard with shop-level filters and KPIs (divers, trips/hours, area cleaned, debris mix, derelict traps, total pounds). | [Tableau](https://public.tableau.com/app/profile/thanhloan.tran/viz/CourtneysDashboard2/Dashboard1) |
+| **Gifting Campaign Performance (TikTok/Instagram)** | Consolidated creator posts and built a Looker Studio report with **campaign totals/averages**, **uploads trend**, **top views/engagements**, and **content-style effectiveness** (hook & talking style, platform mix) with creator attribute filters. | [Screenshot](https://github.com/user-attachments/assets/57b78508-2405-4f03-9d0d-0ccb32e08716) |
 
+> Tip: replace the “Screenshot” link with your live Looker Studio share URL when ready.
 
-***
+---
 
-# Strategy
+## Strategy
 
-| Project | Project Description | Analysis Link |
+| Project | Project Description | Links |
 |---|---|---|
-| [Social Media Campaign Analysis] | I analyzed creators’ engagement by comparing campaign ER to their historical averages and found that 50% stayed within a 1% benchmark. I evaluated the performance of talking vs. non-talking videos, discovering that talking videos generated significantly higher average views and revealed differences in how influencers build trust. I synthesized audience comments into themes like ingredients, routine integration, and targeted concerns, and highlighted saves and shares as strong signals of product interest. | [Engagement Rate Analysis](<img width="1263" height="643" alt="image" src="https://github.com/user-attachments/assets/f2e2dca6-3e42-493d-8086-383da090089a" />) [Talking Style Analysis](<img width="1269" height="643" alt="image" src="https://github.com/user-attachments/assets/1e08e78d-6efe-4737-8868-751e06e0af51" />) [Comment Analysis](<img width="1269" height="643" alt="image" src="https://github.com/user-attachments/assets/1e08e78d-6efe-4737-8868-751e06e0af51" />) 
- |
-| [Digital Campaign Measurement](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) |I broke the campaign into four steps and listed the key question and channels for each. This keeps reporting consistent and helps us find and fix problems one step at a time, from awareness to intent.| [Project Slide] <img width="1255" height="703" alt="image" src="https://github.com/user-attachments/assets/1afd3f6d-4c85-4d2d-a033-d461d00f7c20" />
-|
+| **Social Media Campaign Analysis** | Compared **campaign ER vs. creators’ historical ER** (50% within ±1% benchmark). Assessed **talking vs. non-talking** performance (talking drove higher avg views). Themed comments (ingredients, routines, targeted concerns). Highlighted **saves & shares** as strong interest signals. | [ER Analysis](https://github.com/user-attachments/assets/f2e2dca6-3e42-493d-8086-383da090089a) · [Talking Style](https://github.com/user-attachments/assets/1e08e78d-6efe-4737-8868-751e06e0af51) · [Comment Themes](https://github.com/user-attachments/assets/1e08e78d-6efe-4737-8868-751e06e0af51) |
+| **Digital Campaign Measurement** | Broke the campaign into **four steps** with a simple checklist of **key questions + channels** per stage. This keeps reporting consistent and helps teams troubleshoot from **awareness → intent**. | [Slide](https://github.com/user-attachments/assets/1afd3f6d-4c85-4d2d-a033-d461d00f7c20) |
 
-***
+---
+
 
 
