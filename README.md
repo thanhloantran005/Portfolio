@@ -1,6 +1,6 @@
 # 🗺 Thanhloan's Portfolio
 
-Welcome to my data portfolio! I document projects across **data** and **strategy**—from SQL analysis to dashboards and campaign frameworks.
+Welcome to my data portfolio! I document projects across **data** and **strategy**, from SQL analysis to dashboards and campaign frameworks.
 
 ## 📚 Table of Contents
 - [SQL](#sql)
