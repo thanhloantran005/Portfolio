@@ -25,8 +25,6 @@ Welcome to my data portfolio! I document projects across **data** and **strategy
 | **Clean Seas Florida Keys — Impact Dashboard** | Analyzed 2019–2023 dive logs & debris tallies; standardized units; built a Tableau dashboard with shop-level filters and KPIs (divers, trips/hours, area cleaned, debris mix, derelict traps, total pounds). | [Tableau](https://public.tableau.com/app/profile/thanhloan.tran/viz/CourtneysDashboard2/Dashboard1) |
 | **Gifting Campaign Performance (TikTok/Instagram)** | Consolidated creator posts and built a Looker Studio report with **campaign totals/averages**, **uploads trend**, **top views/engagements**, and **content-style effectiveness** (hook & talking style, platform mix) with creator attribute filters. | [Screenshot](https://github.com/user-attachments/assets/57b78508-2405-4f03-9d0d-0ccb32e08716) |
 
-> Tip: replace the “Screenshot” link with your live Looker Studio share URL when ready.
-
 ---
 
 ## Strategy
