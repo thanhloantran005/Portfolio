@@ -3,35 +3,38 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data + strategy field. 
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Data visualization](#tableau)
 - [Strategy]
-
-# Data Engineering
-
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
-
-***
 
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
-| 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+| [Digital Marketing Sales Analysis](https://github.com/thanhloantran005/SQL-Case-Studies/blob/main/Digital%20Marketing%20Sales%20Analysis.md) | Marketing and Sales analysis | I answer business questions related to campaign ROI and channel mix, funnel conversion & AOV, creative/hook effectiveness, geo/device segmentation, and day/date seasonality to guide budget and strategy. |  
+| [Multilingual App Mini Case Study](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | App ratings analysis | I analyzed a multilingual app dataset to quantify rating patterns by app and category, age cohorts, countries, and device types, and to identify top/bottom performers and most-helpful reviews. |  
 
 ***
 
 # Data visualization
 
-| Project Link | Project Description | Dashboard Link |
+| Project | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| [Ocean Cleanup Analysis]| I analyzed 2019–2023 dive logs and debris tallies, cleaning and standardizing units into a single dataset. I built a Tableau dashboard with shop-level filters that surfaces KPIs (divers, trips/hours, area cleaned, debris mix, traps, pounds) for year-over-year reporting.| [Dashboard](https://public.tableau.com/app/profile/thanhloan.tran/viz/CourtneysDashboard2/Dashboard1) |
+| [Gifted Campaign Dashboard](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analyzed TikTok/Instagram performance for a gifting campaign and built a Looker Studio dashboard tracking views, engagements, and ER% over time. I modeled creator- and content-level cuts (top videos/creators, hook & talking style, platform mix) and added filters for niche, ethnicity, and follower range to guide creative and budget decisions. | [Dashboard](![IMG_1780](https://github.com/user-attachments/assets/57b78508-2405-4f03-9d0d-0ccb32e08716)|
+
 
 ***
+
+# Strategy
+
+| Project | Project Description | Analysis Link |
+|---|---|---|
+| [Social Media Campaign Analysis] | I analyzed creators’ engagement by comparing campaign ER to their historical averages and found that 50% stayed within a 1% benchmark. I evaluated the performance of talking vs. non-talking videos, discovering that talking videos generated significantly higher average views and revealed differences in how influencers build trust. I synthesized audience comments into themes like ingredients, routine integration, and targeted concerns, and highlighted saves and shares as strong signals of product interest. | [Engagement Rate Analysis](<img width="1263" height="643" alt="image" src="https://github.com/user-attachments/assets/f2e2dca6-3e42-493d-8086-383da090089a" />) [Talking Style Analysis](<img width="1269" height="643" alt="image" src="https://github.com/user-attachments/assets/1e08e78d-6efe-4737-8868-751e06e0af51" />) [Comment Analysis](<img width="1269" height="643" alt="image" src="https://github.com/user-attachments/assets/1e08e78d-6efe-4737-8868-751e06e0af51" />) 
+ |
+| [Digital Campaign Measurement](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) |I broke the campaign into four steps and listed the key question and channels for each. This keeps reporting consistent and helps us find and fix problems one step at a time, from awareness to intent.| [Project Slide] <img width="1255" height="703" alt="image" src="https://github.com/user-attachments/assets/1afd3f6d-4c85-4d2d-a033-d461d00f7c20" />
+|
+
+***
+
+
